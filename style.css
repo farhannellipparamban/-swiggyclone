@@ -1,0 +1,326 @@
+.main{
+    display: flex;
+}
+.left{
+    width: 55%;
+}
+.right{
+    width: 45%;
+}
+body{
+    margin: 0px;
+}
+nav{
+    display: flex;
+    align-items: center;
+    height: 170px;
+}
+#img{
+    display: flex;
+    width: 20px;
+    height: 20px;
+    margin-left: -100px;
+    margin-top: 22px;
+}
+.img1{
+    width: 200px;
+    margin-left: 80px;
+    margin-top: 30px;
+}
+.img2{
+    width: 100%;
+    height: 570px;
+}
+.btn{
+    margin-left: 200px;
+}
+button{
+    padding: 10px;
+    font-weight: bold;
+    border: hidden;
+    background-color: white;
+    padding-left: 20px;
+    padding-right: 20px;
+    font-family: system-ui;
+    font-size: medium;
+}
+#section{
+        background-color: black;
+        color: white;
+        font-weight: bold;
+        border: hidden;
+        padding-left: 30px;
+        font-family: system-ui;
+        font-size: medium;
+        padding-right: 30px;
+}
+#section2{
+    background-color: rgb(243, 72, 9);
+    color: white;
+    width: revert;
+    border: none;
+    font-size: 18px;
+    font-family: sans-serif;
+    height: 62px
+}
+.txt{
+    margin-left:75px;
+}
+.texinp{
+    width: 440px;
+    height: 40px;
+    border: 1px solid rgb(241, 76, 16);
+    border-right: none;
+    padding: 10px;
+    font-size: medium;
+    font-weight: bold;
+}
+#para{
+    color: #a9abb2;
+    letter-spacing: -.2px;
+    text-transform: uppercase;
+    margin-top: 8px;
+    font-family: sans-serif;
+    font-size: 14px;
+    font-weight: 500;
+}
+.para{
+    color: #686b78;
+    margin-top: -35px;
+    font-family: sans-serif;
+    font-weight: 600;
+    font-size: 15px;
+}
+#para1{
+    color: #686b78;
+    margin-top: -45px;
+    font-family: sans-serif;
+    font-weight: 600;
+    font-size: 16px;
+}
+.inp{
+    display: flex;
+    margin-top: 22px;
+}
+.txt h1{
+    font-weight: bold;
+    font-family: verdana;
+    font-size: revert;
+}.txt p{
+    font-size: initial;
+    font-weight: bold;
+    line-height: 55px;
+}
+.bkg{
+    background-color:#2b1e16;
+    padding: 80px;
+    margin-top: -4px
+}
+.locate{
+    padding-top: 25px;
+    margin-right: 21px;
+    font-size: 12px;
+    font-family: sans-serif;
+    font-weight: 700;
+}
+.bkg1{
+    display: flex;
+    justify-content: space-between;
+}
+.bkg2{
+    display: flex;
+}
+.grd1{
+    display: grid;
+    grid-template-rows: 100px;
+}
+.grd3{
+    display: grid;
+    grid-template-rows: 100px;
+}
+.bkg2 img{
+    padding: 5px;
+    width: 95px;
+    margin-left: 25px;
+    margin-top: -75px;
+}
+.bkg2 h3{
+    color: white;
+    font-family: sans-serif;
+    font-weight: 700;
+    padding-top: 35px;
+}
+.bkg2 P{
+    color: #e0cbc1;
+    line-height: 1.3;
+    text-align: center;
+    margin-left: -25px;
+    margin-top: -13px;
+    font-family: sans-serif;
+    font-size: 13px;
+}
+.bkg3 h3{
+    color: white;
+    font-family: sans-serif;
+    font-weight: 700;
+    padding-top: 16px;
+    margin-left: 211px;
+}
+.bkg3 p{
+    color: #e0cbc1;
+    line-height: 1.3;
+    text-align: center;
+    margin-left: 190px;
+    margin-top: -7px;
+    font-family: sans-serif;
+    font-size: 13px;
+}
+.bkg4 h3{
+    color: white;
+    font-family: sans-serif;
+    font-weight: 700;
+    margin-left: 232px;
+    margin-top: 63px;
+}
+.bkg4 p{
+    color: #e0cbc1;
+    line-height: 1.3;
+    text-align: center;
+    margin-left: 224px;
+    margin-top: -7px;
+    font-family: sans-serif;
+    font-size: 13px;
+}
+.bkg3 img{
+    width: 105px;
+    padding: 5px;
+    margin-top: -83px;
+    margin-left: 245px;
+}
+.bkg4 img{
+    width: 125px;
+    padding: 5px;
+    margin-top: -65px;
+    margin-left: 270px;
+}
+.main2{
+    display: flex;
+    margin-bottom: -9px
+}
+.left1{
+    width: 43%;
+    height: 525px;
+}.left1 h1{
+    padding-top: 145px;
+    padding-left: 80px;
+    font-family: sans-serif;
+    font-size: 36px;
+    line-height: 1.1;
+    letter-spacing: -.45px;
+}
+.left1 p{
+    padding-left: 80px;
+    font-family: sans-serif;
+    color: #7e808c;
+    font-size: 18px;
+    line-height: 1.4;
+    margin-top: -5px;
+}
+.right1{
+    width: 25%;
+}
+#phone1{
+    width: 384px;
+}
+.right2{
+    width: 25%;
+}
+#phone2{
+    width: 384px;
+    margin-top: 70px;
+    height: 520px;
+    padding: 5px;
+}
+
+.imgapp{
+    display: flex;
+    padding-top: 33px;
+}
+#img1{
+    height: 55px;
+    padding-left: 75px;
+}
+#img2{
+    height: 55px;
+    padding-left: 20px;
+}
+.bottom{
+    display: flex;
+    background-color: #000000;
+}
+.list{
+    color: white;
+    padding-left: 90px;
+    font-family: sans-serif;
+    line-height: 2;
+    list-style-type: none;
+}
+.com{
+    color: gray;
+    padding-left: 88px;
+    font-family: sans-serif;
+    font-weight: 700;
+    margin-top: 80px;
+    margin-bottom: 30px;
+}
+.con{
+    color: gray;
+    font-family: sans-serif;
+    padding-left: 168px;
+    margin-top: 80px;
+    margin-bottom: 30px;
+    font-weight: 700;
+}
+.list1{
+    padding-left: 170px;
+    color: white;
+    font-family: sans-serif;
+    line-height: 2;
+    list-style-type: none;
+}
+.leg{
+    color: gray;
+    font-family: sans-serif;
+    padding-left: 110px;
+    margin-top: 80px;
+    margin-bottom: 30px;
+    font-weight: 700
+}
+.list2{
+    color: white;
+    padding-left: 108px;
+    font-family: sans-serif;
+    line-height: 2;
+    list-style-type: none;
+}
+.app-icons{
+    display: flex;
+    flex-direction: column;
+    margin-top: 85px;
+    margin-left: 108px
+}
+.app-icons img{
+    width: 100%;
+}
+.appstore{
+    width: 200px;
+    margin-bottom: 30px;
+    border: 2px solid gray;
+    border-radius: 10px;
+}
+.playstore{
+    width: 200px;
+    margin-bottom: 30px;
+    border: 2px solid gray;
+    border-radius: 10px;
+}
